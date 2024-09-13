@@ -1,0 +1,2 @@
+Built a robust music genre classifier using VGG19, Keras, and signal processing. It extracted audio features, generated spectrograms, and trained a model for precise 10-genre categorization. This classifier facilitated music collection organization, personalized recommendations, and adaptable streaming platforms through audio analysis and deep learning fusion. The results of this model were 80% accuracy on training data and 61% accuracy on validation data. I worked on this project to improve my classification and NLP skills.
+
